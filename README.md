@@ -1,6 +1,6 @@
-# Engineering Diary
+# Sydney's Engineering Diary📒🧠
 
-A personal log to track coding progress, lessons learned, and project notes.
+Thi is my personal log to track coding progress, lessons learned, and project notes.
 
 ---
 
@@ -9,14 +9,10 @@ A personal log to track coding progress, lessons learned, and project notes.
 - `reviews/` — Weekly reflections (`week-XX.md`)
 - `projects/` — Project ideas, plans, and lessons
 
----
-
 ## Usage
 1. Create a new daily log in `logs/` with today’s date.
 2. At the end of each week, fill out a review in `reviews/`.
 3. For each new project, create a file in `projects/`.
-
----
 
 ## Templates
 
